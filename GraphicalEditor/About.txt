@@ -1,0 +1,1 @@
+﻿Graphic editor which is called <<DrawBox>> is written by student of FEFU Nikita Sidorov 12.10.17
