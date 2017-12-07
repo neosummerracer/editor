@@ -1,0 +1,12 @@
+
+GraphicalEditor/backup/GraphicalEditor.lps.bak
+GraphicalEditor/GraphicalEditor.lps
+GraphicalEditor/GraphicalEditor.lps
+GraphicalEditor/LICENSE.md
+GraphicalEditor/README.md
+GraphicalEditor/backup/umain.lfm.bak
+GraphicalEditor/GraphicalEditor.exe
+GraphicalEditor/lib/x86_64-win64/GraphicalEditor.compiled
+GraphicalEditor/lib/x86_64-win64/GraphicalEditor.obj
+*.bak
+*.ppu
